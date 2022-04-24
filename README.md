@@ -74,3 +74,6 @@ clone the project to the webserver project direcctory
 7. run npm install
 8. run npm run dev
 9. run npm run watch
+
+open in browser
+http://127.0.0.1:8000/students
