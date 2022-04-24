@@ -66,7 +66,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Installation setup
 
 1. rename .env.example to .env
-2. crate a db and update DB details in .env file
+2. create a DB and update DB details in .env file
 3. run composer install
 4. run php artisan migrate
 5. run php artisan db:seed
