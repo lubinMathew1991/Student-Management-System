@@ -64,7 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Installation setup
-
+clone the project to the webserver project direcctory
 1. rename .env.example to .env
 2. create a DB and update DB details in .env file
 3. run composer install
